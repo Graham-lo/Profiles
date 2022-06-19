@@ -5,6 +5,11 @@ DOMAIN-SUFFIX,snapdrop.net,DIRECT
 DOMAIN,download.jetbrains.com,DIRECT
 DOMAIN,origin-a.akamaihd.ne,DIRECT
 # ---(Microsoft)---
+# ---(binance)---
+DOMAIN-SUFFIX,bnappzh.mobi,DIRECT
+DOMAIN-SUFFIX,binance.cloud,DIRECT
+DOMAIN-SUFFIX,h-sdk.online-metrix.net,DIRECT
+DOMAIN-SUFFIX,bntrace.com,DIRECT
 # > Outlook
 DOMAIN,outlook.office365.com,DIRECT
 DOMAIN,smtp-mail.outlook.com,DIRECT
