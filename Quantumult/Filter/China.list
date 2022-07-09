@@ -6,12 +6,12 @@ DOMAIN,download.jetbrains.com,DIRECT
 DOMAIN,origin-a.akamaihd.ne,DIRECT
 # ---(Microsoft)---
 # ---(binance)---
-DOMAIN-KEYWORD,binance,DIRECT
+#DOMAIN-KEYWORD,binance,DIRECT
 DOMAIN-SUFFIX,bnappzh.mobi,DIRECT
-#DOMAIN-SUFFIX,binance.cloud,DIRECT
+DOMAIN-SUFFIX,binance.cloud,DIRECT
 DOMAIN-SUFFIX,h-sdk.online-metrix.net,DIRECT
 DOMAIN-SUFFIX,bntrace.com,DIRECT
-#DOMAIN-SUFFIX,binance.me,DIRECT
+DOMAIN-SUFFIX,binance.me,DIRECT
 # > Outlook
 DOMAIN,outlook.office365.com,DIRECT
 DOMAIN,smtp-mail.outlook.com,DIRECT
